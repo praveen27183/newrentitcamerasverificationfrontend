@@ -305,4 +305,5 @@ For support and questions:
 - Review MongoDB Atlas documentation
 - Ensure all dependencies are properly installed #   n e w r e n t i t c a m e r a s v e r i f i c a t i o n f r o n t e n d  
  #   n e w r e n t i t c a m e r a s v e r i f i c a t i o n f r o n t e n d  
+ #   n e w r e n t i t c a m e r a s v e r i f i c a t i o n f r o n t e n d  
  
